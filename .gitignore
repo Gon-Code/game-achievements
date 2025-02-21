@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+
+# Database files
+*.sqlite3
+
+# Ignorar un archivo específico
+# example.py
+
