@@ -1,5 +1,9 @@
 # Python virtual environment
 venv/
+# Python Cache files
+__pycache__/
+
+
 
 # Database files
 *.sqlite3

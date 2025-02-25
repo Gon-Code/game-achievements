@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="text-2xl font-bold">Bienvenido, {{ request.user.username }}!</h1>
+<p>Este es tu perfil.</p>
+<a href="{% url 'logout' %}" class="text-red-500">Cerrar sesión</a>
+{% endblock %}
