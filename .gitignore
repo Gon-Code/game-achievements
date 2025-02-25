@@ -10,4 +10,5 @@ __pycache__/
 
 # Ignorar un archivo específico
 # example.py
+theme/static/css/dist/styles.css
 
